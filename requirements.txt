@@ -1,0 +1,9 @@
+schedule
+requests
+psycopg2-binary
+transformers
+torch
+langchain
+langchain-core
+langchain-groq
+python-dotenv

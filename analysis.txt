@@ -1,0 +1,474 @@
+Title: HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+Sentiment: negative (0.5814)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Bearish
+Move: -1% to -2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Six of top-10 most valued firms gain ₹88,678 cr in market value last week; ICICI Bank biggest winner
+Sentiment: positive (0.9326)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner
+Sentiment: positive (0.9521)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1-2 weeks
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: 楽天・マネーファンド　利回り年0.881％でMRFの中でトップを維持
+Sentiment: negative (0.6088)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: SBI ends land dispute with Telangana govt, to withdraw case
+Sentiment: positive (0.7713)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Telangana government, SBI reach amicable solution to land row
+Sentiment: positive (0.8391)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: India eyes discounted Iranian oil after US sanctions waiver
+Sentiment: positive (0.8501)
+Analysis:
+Company: Indian Oil Corporation
+Ticker: IOC
+Impact: Bullish
+Move: +1% to +3%
+Time: 1-2 weeks 
+
+Note: The news may also have a positive impact on other Indian oil refining companies such as BPCL, HPCL, and Reliance Industries. However, based on the information provided, Indian Oil Corporation is identified as a primary company that could be affected.
+--------------------------------------------------------------------------------
+Title: Remittance outflow from Nepal rises to Rs 9.75 billion
+Sentiment: positive (0.9523)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+Sentiment: negative (0.5814)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Six of top-10 most valued firms gain ₹88,678 cr in market value last week; ICICI Bank biggest winner
+Sentiment: positive (0.9326)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner
+Sentiment: positive (0.9521)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1-2 weeks
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: 楽天・マネーファンド　利回り年0.881％でMRFの中でトップを維持
+Sentiment: negative (0.6088)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: SBI ends land dispute with Telangana govt, to withdraw case
+Sentiment: positive (0.7713)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Telangana government, SBI reach amicable solution to land row
+Sentiment: positive (0.8391)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: India eyes discounted Iranian oil after US sanctions waiver
+Sentiment: positive (0.8501)
+Analysis:
+Company: Indian Oil Corporation
+Ticker: IOC
+Impact: Bullish
+Move: +1% to +3%
+Time: 1-2 weeks 
+
+Note: Other oil refining and marketing companies like HPCL, BPCL may also be positively impacted.
+--------------------------------------------------------------------------------
+Title: Remittance outflow from Nepal rises to Rs 9.75 billion
+Sentiment: positive (0.9523)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+Sentiment: negative (0.5814)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Bearish
+Move: -1% to -2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Six of top-10 most valued firms gain ₹88,678 cr in market value last week; ICICI Bank biggest winner
+Sentiment: positive (0.9326)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner
+Sentiment: positive (0.9521)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1-2 weeks
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: 楽天・マネーファンド　利回り年0.881％でMRFの中でトップを維持
+Sentiment: negative (0.6088)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day 
+
+Note: The article discusses Japanese companies and financial products, and does not mention any Indian publicly listed company.
+--------------------------------------------------------------------------------
+Title: SBI ends land dispute with Telangana govt, to withdraw case
+Sentiment: positive (0.7713)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Telangana government, SBI reach amicable solution to land row
+Sentiment: positive (0.8391)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: India eyes discounted Iranian oil after US sanctions waiver
+Sentiment: positive (0.8501)
+Analysis:
+Company: Indian Oil Corporation
+Ticker: IOC
+Impact: Bullish
+Move: +1% to +3%
+Time: 1-2 weeks
+--------------------------------------------------------------------------------
+Title: Remittance outflow from Nepal rises to Rs 9.75 billion
+Sentiment: positive (0.9523)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+Sentiment: negative (0.5814)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Six of top-10 most valued firms gain ₹88,678 cr in market value last week; ICICI Bank biggest winner
+Sentiment: positive (0.9326)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner
+Sentiment: positive (0.9521)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: 楽天・マネーファンド　利回り年0.881％でMRFの中でトップを維持
+Sentiment: negative (0.6088)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: SBI ends land dispute with Telangana govt, to withdraw case
+Sentiment: positive (0.7713)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Telangana government, SBI reach amicable solution to land row
+Sentiment: positive (0.8391)
+Analysis:
+Company: State Bank of India
+Ticker: SBIN
+Impact: Bullish
+Move: +1% to +2%
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Ahead of Market: 10 things that will decide D-Street action on Monday
+Sentiment: positive (0.6497)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: India eyes discounted Iranian oil after US sanctions waiver
+Sentiment: positive (0.8501)
+Analysis:
+Company: Indian Oil Corporation
+Ticker: IOC
+Impact: Bullish
+Move: +1% to +3%
+Time: 1-2 weeks
+--------------------------------------------------------------------------------
+Title: Remittance outflow from Nepal rises to Rs 9.75 billion
+Sentiment: positive (0.9523)
+Analysis:
+Company: None
+Ticker: None
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+Sentiment: negative (0.5814)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: My resignation a call of conscience, not an allegation requiring legal review: HDF​C's Atanu Chakraborty
+Sentiment: negative (0.8016)
+Analysis:
+Company: HDFC Bank
+Ticker: HDFCBANK
+Impact: Neutral
+Move: No significant move
+Time: 1 day
+--------------------------------------------------------------------------------
+Title: Six of top-10 most valued firms gain ₹88,678 cr in market value last week; ICICI Bank biggest winner
+Sentiment: positive (0.9326)
+Analysis:
+Company: ICICI Bank
+Ticker: ICICIBANK
+Impact: Bullish
+Move: +2% to +4%
+Time: 1 day
+--------------------------------------------------------------------------------
