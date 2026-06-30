@@ -50,7 +50,7 @@ StockSense AI is an AI-powered stock news analysis system focused on the Indian 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/StockSenseAI.git
+https://github.com/Druva4444/StockSense-AI.git
 cd StockSenseAI
 ```
 
